@@ -1,7 +1,7 @@
 # Fo4CCFilelistGen
 Simple program to generate a filelist.txt for Depot Downloader
 
-<img title="Program" alt="Program" src="./screenshots/Program.png" width="75%">
+<img title="Program" alt="Program" src="./screenshots/program.png" width="75%">
 
 ## Support
 If you encounter any problems or have suggestions, please [open an issue](https://github.com/ExiledEye/Fo4CCFilelistGen/issues).
