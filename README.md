@@ -3,6 +3,8 @@ Simple program to generate a filelist.txt for Depot Downloader
 
 <img title="Program" alt="Program" src="./screenshots/program.png" width="75%">
 
+More info: https://www.nexusmods.com/fallout4/mods/105934
+
 ## Support
 If you encounter any problems or have suggestions, please [open an issue](https://github.com/ExiledEye/Fo4CCFilelistGen/issues).
 
